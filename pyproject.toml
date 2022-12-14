@@ -8,7 +8,7 @@ packages = [{include = "pin_dependency_poetry"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-python-decouple = "^3.6"
+python-decouple = "^3.5"
 
 
 [build-system]
